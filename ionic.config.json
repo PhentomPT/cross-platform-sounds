@@ -1,0 +1,7 @@
+{
+  "name": "AT.AD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
